@@ -1,0 +1,1 @@
+This repository is created by Hao Yin, who is a M.Sc student at **Nanjing University** and a member of the **LAMDA Group**. Implementations for modern reinforcement learning algorithms could be found within this repository.
